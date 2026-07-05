@@ -2,10 +2,10 @@
 
 <h1 align="center">
   Hi, I'm Parikshit Rajput ✌︎㋡  
-</h1>ㅤㅤㅤㅤㅤ
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;Vulnerability+Assessment+and+Penetration+Testing;AI%2FLLM+Security;Vulnerability+Management;Configuration+Assessments;Security+Operations+Center+(SOC)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3200&pause=700&color=22D3EE&center=true&vCenter=true&width=600&lines=CyberSecuity+Engineer;Vulnerability+Assessment+and+Pentesting;GenAI%2FLLM+Security;Web+Application+Security;Mobile+Application+Security;Infrastructure+Pentesting;Vulnerability+Management;Configuration+Assessments;Security+Operation+Center+(SOC)" />
 </p>
 
 </div>
@@ -18,7 +18,7 @@
 |:---|:---|
 | 💼 **Experience** | 5 Years |
 | 🎯 **Specialization** | Vulnerability Assessment & Penetration Testing |
-| 🌐 **Coverage** | Web Applications • APIs • Mobile Apps (Android & iOS) • Infrastructure • GenAI/LLM |
+| 🌐 **Coverage** | Web App • APIs • Mobile Apps (Android & iOS) • Infrastructure • GenAI/LLM |
 | 🛠️ **Additional Expertise** | Vulnerability Management • Configuration Assessments • SOC |
 
 ---
